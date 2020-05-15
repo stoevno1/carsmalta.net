@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to CarsMaltaNET
 
-You can use the [editor on GitHub](https://github.com/stoevno1/carsmalta.net/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+CarsMaltaNet is an online platform allowing dealers and private individuals to buy and sell cars, vans, trucks, motorcycles and other vehicles. We also have a blog, and events pages to keep you up to date with the latest vehicle-related news in Malta and the world.
 
 ### Markdown
 
